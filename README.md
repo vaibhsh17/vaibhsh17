@@ -1,8 +1,8 @@
-<h3>Hi there, I'm Vaibhav 👋</h3>
+## Hi there, I'm Vaibhav 👋
 
 I build a practice software projects to my strengthen my programming skills, explore modern technologies and gain hands-on experience throught consistent learning and real-world development.
 
-<strong>🎯 Current Focus :</strong>
+### 🎯 Current Focus :
 
 <ul>
  <li> Expanding my Python knowledge through continuous learning and hands-on practice.</li>
@@ -13,7 +13,7 @@ I build a practice software projects to my strengthen my programming skills, exp
  <li> Learning through open-source projects and real-world constraints.</li>
 </ul>
 
-<strong>🧩 Current Project :</strong><br>
+###🧩 Current Project :
 
 [Cpp-Arena](https://github.com/vaibhav-dev1707/Cpp-Arena) - Mini projects collections, coding exercises and explore fundamental concepts.
 
