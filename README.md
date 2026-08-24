@@ -25,7 +25,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ### 📊 Vaibhav's GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=vaibhsh7&show_icons=true&theme=github_dark" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=vaibhsh17&show_icons=true&theme=github_dark" width="100%"/>
 
 </td>
 
