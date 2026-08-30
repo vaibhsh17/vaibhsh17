@@ -10,6 +10,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 - Exploring web development and modern software engineering practices.
 - Contributing to open-sourece projects while continuously learning new technologies.
 - Learning through open-source projects and real-world constraints.
+  Learning and building softwares with focus on clean code, clean structure & continuous learning.
 
 ### 🧩 Current Project :
 
