@@ -14,7 +14,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ### 🧩 Current Project :
 
-[Botix-S](https://github.com/vaibhsh17/botix-s)
+[Botix-S](https://github.com/vaibhsh17/botix-s) - **Botix-S** is a simple customizable chatbot project designed to make automated question-and-answer interactions easy to create and manage.
 
 [Cpp-Arena](https://github.com/vaibhav-dev1707/Cpp-Arena) - Mini projects collections, coding exercises and explore fundamental concepts.
 
