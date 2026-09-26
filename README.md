@@ -18,8 +18,6 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 **[Cpp-Arena](https://github.com/vaibhav-dev1707/Cpp-Arena)** - Mini projects collections, coding exercises and explore fundamental concepts.
 
-**[Quick-Master-Calculator](https://github.com/vaibhav-dev1707/Quick-Master-Calculator)** - A responsive scientific web calculaor, that can use for different operations calculation.
-
 ### 📸 Activity Snapshots :
 
 <table>
