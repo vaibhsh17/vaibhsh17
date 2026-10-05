@@ -4,13 +4,12 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 ### 🎯 Current Focus :
 
+- Building practical projects to improve problem-solving and development experience.
+- Learning through open-source projects and real-world constraints.
 - Expanding my Python knowledge, through continuous learning and hands-on practice.
 - Enhancing my C++ programming skills.
-- Building practical projects to improve problem-solving and development experience.
 - Exploring web development and modern software engineering practices.
 - Contributing to open-sourece projects while continuously learning new technologies.
-- Learning through open-source projects and real-world constraints.
-- Learning and building softwares with focus on clean code, clean structure & continuous learning.
 
 ### 🧩 Current Project :
 
