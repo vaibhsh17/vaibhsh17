@@ -15,7 +15,7 @@ I build a practice software projects to my strengthen my programming skills, exp
 
 **[MiniOS](https://github.com/vaibhsh17/MiniOS)**: **Education OS Simulator** - An educational operating system simulator built using python to demonstrate core OS concepts. It provides an interactive command-line enviourment to expore file management, process management, mmory allocation, CPU scheduling and syste monitoring.
 
-**[Botix-S](https://github.com/vaibhsh17/botix-s)** - A simple customizable chatbot project, designed to make automated question-and-answer interactions easy-to-create and manage.
+**[Botix-S](https://github.com/vaibhsh17/botix-s)** - A simple and customizable chatbot project, designed to make automated question-and-answer interactions easy-to-create and manage.
 
 **[Cpp-Arena](https://github.com/vaibhav-dev1707/Cpp-Arena)** - Mini projects collections, coding exercises and explore fundamental concepts.
 
